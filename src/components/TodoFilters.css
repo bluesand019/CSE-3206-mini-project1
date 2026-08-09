@@ -1,0 +1,20 @@
+.todo-filters {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.filter-btn {
+  border: none;
+  background: transparent;
+  padding: 4px 12px;
+  border-radius: 8px;
+  font-size: 13px;
+  color: #6b6b68;
+  cursor: pointer;
+}
+
+.filter-btn.active {
+  background: #e6f1fb;
+  color: #0c447c;
+}
