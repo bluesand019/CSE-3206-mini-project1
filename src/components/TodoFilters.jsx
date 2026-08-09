@@ -1,3 +1,4 @@
+import './TodoFilters.css'
 const FILTERS = [
   { key: "all", label: "All" },
   { key: "active", label: "Active" },

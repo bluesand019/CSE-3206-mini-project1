@@ -3,7 +3,7 @@ import TodoHeader from "./components/TodoHeader";
 import TodoInput from "./components/TodoInput";
 import TodoFilters from "./components/TodoFilters";
 import TodoList from "./components/TodoList";
-import "./App.css";
+import './components/App.css'
 
 export default function App() {
   const [todos, setTodos] = useState([

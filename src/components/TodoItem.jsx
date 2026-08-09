@@ -1,3 +1,4 @@
+import './TodoItem.css'
 export default function TodoItem({ todo, onToggle, onDelete }) {
   return (
     <div className="todo-item">

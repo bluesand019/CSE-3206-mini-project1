@@ -1,4 +1,5 @@
 import { useState } from "react";
+import './TodoInput.css'
  
 export default function TodoInput({ onAdd }) {
   const [text, setText] = useState("");

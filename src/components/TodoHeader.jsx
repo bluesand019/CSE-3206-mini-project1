@@ -1,4 +1,5 @@
 import React from 'react'
+import './TodoHeader.css'
 
 const TodoHeader = ({ total, remaining }) => {
   return (
