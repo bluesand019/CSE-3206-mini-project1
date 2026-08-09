@@ -5,7 +5,7 @@
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  background: #f4f4f2;
+  background: #1485c7;
 }
 
 .app {
@@ -15,7 +15,7 @@ body {
 }
 
 .todo-card {
-  background: #ffffff;
+  background: #a4c6f0;
   border-radius: 12px;
   border: 1px solid #e5e5e3;
   padding: 1.5rem;

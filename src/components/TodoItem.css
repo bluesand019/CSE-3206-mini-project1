@@ -19,7 +19,7 @@
 .todo-text {
   flex: 1;
   font-size: 14px;
-  color: #1a1a19;
+  color: #0a0a0a;
 }
 
 .todo-text.completed {
